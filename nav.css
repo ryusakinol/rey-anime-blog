@@ -1,0 +1,11 @@
+
+nav {
+    text-decoration: none;
+    text-decoration-line: none;
+}
+
+ul li {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
