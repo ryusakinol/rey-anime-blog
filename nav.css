@@ -1,11 +1,22 @@
 
 nav {
-    text-decoration: none;
+    position: relative;
+    display: inline-block;
+    color: black;
+    padding: 10px;
+    margin: 15px;
+    background: white;
+    border-radius: 10px;
     text-decoration-line: none;
 }
 
 ul li {
-    position: relative;
-    display: inline-block;
     text-align: center;
+    display: inline-block;
+    color: red;
+    padding: 10px;
+    margin: 15px;
+    background: white;
+    text-decoration-line: none;
+    text-align: end;
 }
