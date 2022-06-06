@@ -1,10 +1,18 @@
 
 .link-sleeping {
-    height: 200px;
-    width: 300px;
+    height: 250px;
+    width: 400px;
+    left: 200px;
+    position: relative;
+}
+
+.header-img {
+    width: 100vh;
+    width: 100vh;
 }
 
 .gaia {
-    height: 200px;
-    width: 300px;
+    height: 300px;
+    width: 400px;
+    background-position: center;
 }

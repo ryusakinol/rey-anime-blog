@@ -8,16 +8,31 @@ nav {
     background: white;
     border-radius: 10px;
     text-decoration-line: none;
-    left: 500px;
+    left: 25%;
+}
+
+.nav-link {
+    text-align: center;
+    background: black;
+    text-decoration-line: none;
+    color: white;
+    border-radius: 10px;
+    margin: 15px;
+    text-decoration-line: none;
+    border-radius: 10px;
+    list-style:none;
+    font-size: 20px;
 }
 
 ul li {
-    text-align: center;
+    text-align: left;
     display: inline-block;
-    color: red;
-    padding: 10px;
+    padding: 15px;
     margin: 15px;
-    background: white;
-    text-decoration-line: none;
-    text-align: end;
+    border-radius: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
 }

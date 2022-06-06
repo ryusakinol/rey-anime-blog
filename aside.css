@@ -1,5 +1,5 @@
 aside {
-    width: calc(80%);
+    width: calc(200%);
     height: 1000px;
     padding: 10px;
     margin: 10px;
@@ -8,4 +8,13 @@ aside {
     text-decoration: none;
     margin-right: auto;
     margin-left: auto;
+}
+
+.aside-link a {
+    text-align: left;
+    display: inline;
+    color: black;
+    border-radius: 10px;
+    list-style:armenian;
+    font-size: 16px;
 }
